@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityLayer", "EntityLayer\EntityLayer.csproj", "{330A4E07-7837-4985-B1BD-CC333795AEA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{DD09E028-0289-4509-9A71-49929B82C6DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{095C7E38-3A66-4A10-9AD7-E3ABEDCD9D31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HOAppLayer(PresentationLayer)", "HOAppLayer(PresentationLayer)\HOAppLayer(PresentationLayer).csproj", "{02F4EFC6-436C-433E-B05E-1674256CC898}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup HOAPP", "..\..\Hastane Otomasyonu v1.0 Setup\Setup HOAPP\Setup HOAPP.vdproj", "{2011342C-EC91-4F78-B21A-666DEC410588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{330A4E07-7837-4985-B1BD-CC333795AEA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{330A4E07-7837-4985-B1BD-CC333795AEA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{330A4E07-7837-4985-B1BD-CC333795AEA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{330A4E07-7837-4985-B1BD-CC333795AEA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD09E028-0289-4509-9A71-49929B82C6DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD09E028-0289-4509-9A71-49929B82C6DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD09E028-0289-4509-9A71-49929B82C6DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD09E028-0289-4509-9A71-49929B82C6DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{095C7E38-3A66-4A10-9AD7-E3ABEDCD9D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{095C7E38-3A66-4A10-9AD7-E3ABEDCD9D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{095C7E38-3A66-4A10-9AD7-E3ABEDCD9D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{095C7E38-3A66-4A10-9AD7-E3ABEDCD9D31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02F4EFC6-436C-433E-B05E-1674256CC898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F4EFC6-436C-433E-B05E-1674256CC898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F4EFC6-436C-433E-B05E-1674256CC898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F4EFC6-436C-433E-B05E-1674256CC898}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2011342C-EC91-4F78-B21A-666DEC410588}.Debug|Any CPU.ActiveCfg = Debug
+		{2011342C-EC91-4F78-B21A-666DEC410588}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {872A23C4-90CB-4CAE-9F28-CE6C23523B97}
+	EndGlobalSection
+EndGlobal
